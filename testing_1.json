@@ -1,0 +1,17 @@
+[
+  {
+    "question": "Длинная река?",
+    "materials_id": 2,
+    "answer": "волга"
+  },
+  {
+    "question": "Озеро?",
+    "materials_id": 2,
+    "answer": "Байкал"
+  },
+  {
+    "question": "Гора?",
+    "materials_id": 3,
+    "answer": "Эльбрус"
+  }
+]
